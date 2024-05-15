@@ -1,6 +1,6 @@
-Resources for learning Machine Learning
+# Resources for learning Machine Learning
 
-Deep Learning
+## Deep Learning
 
 Neural Networks: Zero to Hero, Andrej Karpthy
 https://karpathy.ai/zero-to-hero.html
@@ -8,7 +8,7 @@ https://karpathy.ai/zero-to-hero.html
 Practical Deep Learning for Coders
 https://course.fast.ai/
 
-Graphs
+## Graphs
 
 Zak Jost
 
@@ -55,7 +55,7 @@ Temporal Graph reading group
 https://www.cs.mcgill.ca/~shuang43/rg.html
 https://www.youtube.com/@TGL_RG/videos
 
-Language
+## Language
 
 HuggingFace NLP Course
 https://huggingface.co/learn/nlp-course/
