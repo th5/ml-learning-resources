@@ -45,12 +45,15 @@ See also talks on youtube from Bronstein's collaborators, such as Petar Veličko
 
 Learning on Graphs and Geometry reading group (LoGaG)
 https://portal.valencelabs.com/logg
+https://www.youtube.com/playlist?list=PLoVkjhDgBOt2UwOm70DAuxHf1Jc9ijmzl
 
 Molecular Modeling and Drug Discover reading group (M2D2)
 https://portal.valencelabs.com/m2d2
+https://www.youtube.com/playlist?list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ
 
 Temporal Graph reading group
 https://www.cs.mcgill.ca/~shuang43/rg.html
+https://www.youtube.com/@TGL_RG/videos
 
 Language
 
